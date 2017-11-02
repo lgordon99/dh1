@@ -80,13 +80,13 @@ circa: 1650s
 - What gripes of wind, mine infancy did pain?
 - What tortures I, in breeding teeth[^fn4] sustain?
 - What crudities my cold stomach hath bred?
-- Whence vomits, worms, and flux have issued?
+- Whence vomits, worms, and flux[^fn5] have issued?
 - What breaches, knocks, and falls I daily have?
 - And some perhaps, I carry to my grave.
 - Sometimes in fire, sometimes in water fall:
 - Strangely preserv'd, yet mind it not at all.
 - At home, abroad, my danger's manifold
-- That wonder 'tis, my glass[^fn5] till now doth hold.
+- That wonder 'tis, my glass[^fn6] till now doth hold.
 - I've done: unto my elders I give way,
 - For 'tis but little that a child can say.
 
@@ -96,4 +96,5 @@ circa: 1650s
 [^fn2]: Jeweled crowns or headbands worn as a symbol of sovereignty
 [^fn3]: "Honour thy father and thy mother; in the middle of the list of commandments"
 [^fn4]: Teething - getting one's first teeth
-[^fn5]: Archaic meaning of glass is "hourglass", which can be used to measure time, and in the context probably refers to the time left in her life
+[^fn5]: A lot of blood flowing from the bowels or other organs; early name for dysentery
+[^fn6]: Archaic meaning of glass is "hourglass", which can be used to measure time, and in the context probably refers to the time left in her life
