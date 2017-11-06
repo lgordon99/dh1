@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "Childhood by John Clare"
+title: "Childhood (1793-1864)"
 author: "John Clare"
 editor: Lucia Gordon
 sorce: I Am- The Selected Poetry of John Clare
