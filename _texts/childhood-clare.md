@@ -34,7 +34,7 @@ circa: 1793-1864
 - Have left the honours of their place
 - Locked in that silent word.[^fn3]
 
-...
+---
 
 ## Footnotes
 [^fn1]: The process of looking back on the past embellishes it
